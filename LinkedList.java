@@ -1,3 +1,4 @@
+//Linked List implementation in java, along with the basic operations performed on it.
 import java.util.*;
 
 class linkedlist
